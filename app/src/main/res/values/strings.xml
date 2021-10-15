@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">05_Actividad_events</string>
+    <string name="hello">Una APP amb events. ViewsAndLayouts!</string>
+    <string name="enableViews">Activar Layout</string>
+    <string name="myRadioButton">Botón circular</string>
+
+    <string name="invisible">Invisible</string>
+    <string name="gone">Gone</string>
+</resources>
